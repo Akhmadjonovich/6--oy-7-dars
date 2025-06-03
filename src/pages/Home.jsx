@@ -18,27 +18,27 @@ let cardsInfo = [
   {
     id:2,
     img: blog2,
-    title: "one"
+    title: "two"
   },
   {
     id:3,
     img: blog3,
-    title: "one"
+    title: "three"
   },
   {
     id:4,
     img: blog4,
-    title: "one"
+    title: "four"
   },
   {
     id:5,
     img: blog5,
-    title: "one"
+    title: "five"
   },
   {
     id:6,
     img: blog6,
-    title: "one"
+    title: "six"
   },
 ]
 const Home = () => {
